@@ -53,5 +53,5 @@ ___.                 ____________ _________________
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"It’s not a bug; it’s an undocumented feature."</i>
 </p>
